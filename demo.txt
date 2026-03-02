@@ -1,0 +1,6 @@
+Demo file
+
+This is a simple demo file created in the workspace.
+
+- Purpose: example/demo
+- Created by: AEKRA-Code
